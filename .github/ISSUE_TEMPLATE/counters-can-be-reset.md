@@ -8,4 +8,4 @@ assignees: ''
 ---
 
 As a System Administrator, I need the ability to reset the counter, So that I can redo
-counting from the start
+counting from the start.
